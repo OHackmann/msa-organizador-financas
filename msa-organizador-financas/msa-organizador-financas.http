@@ -1,0 +1,6 @@
+@msa_organizador_financas_HostAddress = http://localhost:5072
+
+GET {{msa_organizador_financas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
